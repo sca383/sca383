@@ -2,7 +2,7 @@
 
 Fast Facts: 
 - 2nd year computing science student @ SFU
-- Lifelong learner, love learning new things and always love a challenge
+- Lifelong learner, love learning new things and always love solving challenges
 - Languages: C, C++, Java, Python
 
 Life right now:
