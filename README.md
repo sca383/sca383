@@ -6,7 +6,13 @@ Fast Facts:
 - Languages: C, C++, Java, Python
 
 Life right now:
-- 🔭 I’m currently working on "Registration System"
+- 🔭 I’m currently working on
+    - "Calculator_App
+    - "Registration System"
+- 🌱 I’m currently learning
+    - React
+    - JavaScript
+
 
 <!--
 **sca383/sca383** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
