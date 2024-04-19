@@ -4,13 +4,15 @@ Fast Facts:
 - 2nd year computing science student @ SFU
 - Lifelong learner, love learning new things and always love solving challenges
 - Languages: C, C++, Java, Python
+d
 <div>
-  <img src ="https://github.com/devicons/devicon/blob/master/icons/c/c-original-watermark.swg" title="c" alt="c" width="40" height="40"/>&nbsp;
-  <img src ="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original-watermark.swg"title="c++" alt="c++" width="40" height="40"/>&nbsp;
+  <img src ="https://github.com/devicons/devicon/blob/master/icons/c/c-original-wordmark.swg" title="c" alt="c" width="40" height="40"/>&nbsp;
+  <img src ="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original-wordmark.swg"title="c++" alt="c++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
 Life right now:
 - 🔭 I’m currently working on
     - "Calculator_App
