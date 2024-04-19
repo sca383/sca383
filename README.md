@@ -4,7 +4,7 @@ Fast Facts:
 - 2nd year computing science student @ SFU
 - Lifelong learner, love learning new things and always love solving challenges
 - Languages: C, C++, Java, Python
-
+![c++](https://github.com/sca383/sca383/assets/110276592/e06a4ffd-d4e9-49bb-9bc6-1c396242d97a)
 
 Life right now:
 - 🔭 I’m currently working on
