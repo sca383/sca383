@@ -4,7 +4,6 @@ Fast Facts:
 - 2nd year computing science student @ SFU
 - Lifelong learner, love learning new things and always love solving challenges
 - Languages: C, C++, Java, Python
-<br>
 <div>
   <img src ="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
   <img src ="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"title="c++" alt="c++" width="40" height="40"/>&nbsp;
@@ -12,8 +11,7 @@ Fast Facts:
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-<br>
-<br>
+
 <br>
 
 Life right now:
