@@ -19,6 +19,7 @@ Life right now:
 - 🔭 I’m currently working on
     - "Calculator_App
     - "Registration System"
+    - "Personal Site"
 - 🌱 I’m currently learning
     - CSS
     - React
