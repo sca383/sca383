@@ -17,6 +17,7 @@ Fast Facts:
 
 Life right now:
 - 🔭 I’m currently working on
+    - "Weather-App"
     - "Calculator_App
     - "Registration System"
     - "Personal Site"
