@@ -17,10 +17,11 @@ Fast Facts:
 
 Life right now:
 - 🔭 I’m currently working on
+    - Random projects that I want to explore
+- ✨Mini projects✨:
+    - "Movie Geek Central"
     - "Weather-App"
-    - "Calculator_App
-    - "Registration System"
-    - "Personal Site"
+    - "Calculator_App"
 - 🌱 I’m currently learning
     - CSS
     - React
