@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Shana!
 
 Fast Facts: 
-- 2nd year computing science student @ SFU
+- 3nd year computing science student @ SFU
 - Lifelong learner, love learning new things and always love solving challenges
 - Languages: C, C++, Java, Python, HTML
 <div>
