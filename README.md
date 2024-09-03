@@ -17,6 +17,7 @@ Fast Facts:
 
 Life right now:
 - 🔭 I’m currently working on
+    - Room Booking App
     - Random projects that I want to explore
 - ✨Mini projects✨:
     - "Movie Geek Central"
