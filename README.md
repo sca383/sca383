@@ -2,7 +2,7 @@
 
 Fast Facts: 
 - 3nd year computing science student @ SFU
-- Lifelong learner, love learning new things and always love solving challenges
+- Lifelong learner, love learning new things and challenging myself
 - Languages: C, C++, Java, Python, HTML
 <div>
   <img src ="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
