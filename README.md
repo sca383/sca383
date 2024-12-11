@@ -3,14 +3,17 @@
 Fast Facts: 
 - 3nd year computing science student @ SFU
 - Lifelong learner, love learning new things and challenging myself
-- Languages: C, C++, Java, Python, HTML
+- Languages: C, C++, Java, Python, HTML, CSS, JavaScript, JSX
 <div>
   <img src ="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
   <img src ="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"title="c++" alt="c++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css5/css5-original.svg" title="CSS5" alt="CSS5" width="40" height="40"/>
+  
+
 </div>
 
 <br>
