@@ -29,9 +29,8 @@ Life right now:
     - "Weather-App"
     - "Calculator_App"
 - 🌱 I’m currently learning
-    - CSS
+    - SQL
     - React
-    - JavaScript
 
 
 <!--
