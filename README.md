@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Shana!
 
 Fast Facts: 
-- 3nd year computing science student @ SFU
+- 4th year computing science student @ SFU
 - Lifelong learner, love learning new things and challenging myself
 - Languages: C, C++, Java, Python, HTML, CSS, JavaScript, JSX
 <div>
@@ -21,8 +21,8 @@ Fast Facts:
 <br>
 
 Life right now:
-- 🔭 I’m currently working on
-    - Room Booking App
+- 🔭 I’m currently working on:
+    - My long awaited personal website (...finally)
     - EasyFi (tool to aid in viewing, sharing, and troubleshooting your Wi-Fi for non-technical users)
     - Random projects that I want to explore
 - ✨Mini projects✨:
