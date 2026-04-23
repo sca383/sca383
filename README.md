@@ -25,13 +25,14 @@ Life right now:
     - My long awaited personal website (...finally)
     - EasyFi (tool to aid in viewing, sharing, and troubleshooting your Wi-Fi for non-technical users)
     - Random projects that I want to explore
-- ✨Mini projects✨:
+<!--- ✨Mini projects✨:
     - "Movie Geek Central"
     - "Weather-App"
     - "Calculator_App"
 - 🌱 I’m currently learning
     - SQL
     - React
+  -->
 
 
 <!--
@@ -66,4 +67,4 @@ Here are some ideas to get you started:
 -->
 
 
-![Shana's github stats](https://github-readme-stats.vercel.app/api?username=sca383&show_icons=true&hide_border=true)
+<!--![Shana's github stats](https://github-readme-stats.vercel.app/api?username=sca383&show_icons=true&hide_border=true) -->
