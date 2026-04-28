@@ -23,7 +23,7 @@ Fast Facts:
 Life right now:
 - 🔭 I’m currently working on:
     - My long awaited personal website (...finally)
-    - EasyFi (tool to aid in viewing, sharing, and troubleshooting your Wi-Fi for non-technical users)
+    <!--- EasyFi (tool to aid in viewing, sharing, and troubleshooting your Wi-Fi for non-technical users) -->
     - Random projects that I want to explore
 <!--- ✨Mini projects✨:
     - "Movie Geek Central"
